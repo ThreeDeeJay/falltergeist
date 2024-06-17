@@ -1,6 +1,7 @@
 name: Build
 
-on: [wofkflow_dispatch]
+on: 
+  wofkflow_dispatch:
 
 jobs:
   build-on-ubuntu:
