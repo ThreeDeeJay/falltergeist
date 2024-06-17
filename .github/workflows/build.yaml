@@ -1,6 +1,6 @@
 name: Build
 
-on: [pull_request]
+on: [wofkflow_dispatch]
 
 jobs:
   build-on-ubuntu:
