@@ -1,7 +1,7 @@
 name: Build
 
 on: 
-  wofkflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   build-on-ubuntu:
